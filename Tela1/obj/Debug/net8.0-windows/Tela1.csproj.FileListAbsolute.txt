@@ -1,0 +1,17 @@
+C:\Users\igor.samorim1\Downloads\GamaWave-main\GamaWave-main\Tela1\bin\Debug\net8.0-windows\Tela1.exe
+C:\Users\igor.samorim1\Downloads\GamaWave-main\GamaWave-main\Tela1\bin\Debug\net8.0-windows\Tela1.deps.json
+C:\Users\igor.samorim1\Downloads\GamaWave-main\GamaWave-main\Tela1\bin\Debug\net8.0-windows\Tela1.runtimeconfig.json
+C:\Users\igor.samorim1\Downloads\GamaWave-main\GamaWave-main\Tela1\bin\Debug\net8.0-windows\Tela1.dll
+C:\Users\igor.samorim1\Downloads\GamaWave-main\GamaWave-main\Tela1\bin\Debug\net8.0-windows\Tela1.pdb
+C:\Users\igor.samorim1\Downloads\GamaWave-main\GamaWave-main\Tela1\obj\Debug\net8.0-windows\Tela1.Form1.resources
+C:\Users\igor.samorim1\Downloads\GamaWave-main\GamaWave-main\Tela1\obj\Debug\net8.0-windows\Tela1.Properties.Resources.resources
+C:\Users\igor.samorim1\Downloads\GamaWave-main\GamaWave-main\Tela1\obj\Debug\net8.0-windows\Tela1.csproj.GenerateResource.cache
+C:\Users\igor.samorim1\Downloads\GamaWave-main\GamaWave-main\Tela1\obj\Debug\net8.0-windows\Tela1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igor.samorim1\Downloads\GamaWave-main\GamaWave-main\Tela1\obj\Debug\net8.0-windows\Tela1.AssemblyInfoInputs.cache
+C:\Users\igor.samorim1\Downloads\GamaWave-main\GamaWave-main\Tela1\obj\Debug\net8.0-windows\Tela1.AssemblyInfo.cs
+C:\Users\igor.samorim1\Downloads\GamaWave-main\GamaWave-main\Tela1\obj\Debug\net8.0-windows\Tela1.csproj.CoreCompileInputs.cache
+C:\Users\igor.samorim1\Downloads\GamaWave-main\GamaWave-main\Tela1\obj\Debug\net8.0-windows\Tela1.dll
+C:\Users\igor.samorim1\Downloads\GamaWave-main\GamaWave-main\Tela1\obj\Debug\net8.0-windows\refint\Tela1.dll
+C:\Users\igor.samorim1\Downloads\GamaWave-main\GamaWave-main\Tela1\obj\Debug\net8.0-windows\Tela1.pdb
+C:\Users\igor.samorim1\Downloads\GamaWave-main\GamaWave-main\Tela1\obj\Debug\net8.0-windows\Tela1.genruntimeconfig.cache
+C:\Users\igor.samorim1\Downloads\GamaWave-main\GamaWave-main\Tela1\obj\Debug\net8.0-windows\ref\Tela1.dll

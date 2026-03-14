@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\francine.bssilva\\source\\repos\\Atividade 11.03.2026\\Tela1\\Tela1.csproj": {}
+    "C:\\Users\\igor.samorim1\\Downloads\\GamaWave\\Tela1\\Tela1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\francine.bssilva\\source\\repos\\Atividade 11.03.2026\\Tela1\\Tela1.csproj": {
+    "C:\\Users\\igor.samorim1\\Downloads\\GamaWave\\Tela1\\Tela1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\francine.bssilva\\source\\repos\\Atividade 11.03.2026\\Tela1\\Tela1.csproj",
+        "projectUniqueName": "C:\\Users\\igor.samorim1\\Downloads\\GamaWave\\Tela1\\Tela1.csproj",
         "projectName": "Tela1",
-        "projectPath": "C:\\Users\\francine.bssilva\\source\\repos\\Atividade 11.03.2026\\Tela1\\Tela1.csproj",
-        "packagesPath": "C:\\Users\\francine.bssilva\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\francine.bssilva\\source\\repos\\Atividade 11.03.2026\\Tela1\\obj\\",
+        "projectPath": "C:\\Users\\igor.samorim1\\Downloads\\GamaWave\\Tela1\\Tela1.csproj",
+        "packagesPath": "C:\\Users\\igor.samorim1\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\igor.samorim1\\Downloads\\GamaWave\\Tela1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\francine.bssilva\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\igor.samorim1\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
